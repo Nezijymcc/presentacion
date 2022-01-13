@@ -1,16 +1,12 @@
-A ver si estoy entendiendo
 TÍTULO
 13/01/2022
 Hola mucho gusto
 
 ¿Cómo estás?
-<<<<<<< HEAD
-te deseo un estupendo día
-=======
 te deseo un maravilloso día
->>>>>>> cabecera
 abrigate bien 
 por fAVOR 
 
 Mi desayuno fue abundante
 finalicé con una taza de té de hierbabuena 
+aaaaaaaaaaaah
