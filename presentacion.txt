@@ -3,7 +3,11 @@ TÍTULO
 Hola mucho gusto
 
 ¿Cómo estás?
+<<<<<<< HEAD
 te deseo un estupendo día
+=======
+te deseo un maravilloso día
+>>>>>>> cabecera
 abrigate bien 
 por fAVOR 
 
